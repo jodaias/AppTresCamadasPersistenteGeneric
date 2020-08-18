@@ -1,0 +1,15 @@
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\bin\Debug\AppTresCamadasPersistenteGeneric.exe.config
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\bin\Debug\AppTresCamadasPersistenteGeneric.exe
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\bin\Debug\AppTresCamadasPersistenteGeneric.pdb
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\bin\Debug\Business.dll
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\bin\Debug\Database.dll
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\bin\Debug\Business.pdb
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\bin\Debug\Database.pdb
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\obj\Debug\UI.csprojAssemblyReference.cache
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\obj\Debug\AppTresCamadasPersistenteGeneric.Form1.resources
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\obj\Debug\AppTresCamadasPersistenteGeneric.Properties.Resources.resources
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\obj\Debug\UI.csproj.GenerateResource.cache
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\obj\Debug\UI.csproj.CopyComplete
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\obj\Debug\AppTresCamadasPersistenteGeneric.exe
+D:\PESSOAIS\C#\AppTresCamadasPersistenteGeneric\AppTresCamadasPersistenteGeneric\obj\Debug\AppTresCamadasPersistenteGeneric.pdb
